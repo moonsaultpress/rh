@@ -3,6 +3,11 @@
 @import url(//fonts.googleapis.com/earlyaccess/mplus1p.css);
 @import url(//fonts.googleapis.com/css?family=Lato:400,700);
 @import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+body{
+    background: #FFF;
+    font-family: "Mplus 1p", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Noto Sans Japanese", sans-serif;
+    font-weight: 400;
+}
 form{
     font-family: "Mplus 1p", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Noto Sans Japanese", sans-serif;
     font-weight: 400;
@@ -11,6 +16,7 @@ form{
     width: 100%;
     float: none;
     clear: both;
+    color: #666;
 }
 
 input, textarea{border:1px solid #666;}

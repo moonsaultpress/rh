@@ -20,3 +20,15 @@ form{
 }
 
 input, textarea{border:1px solid #666;}
+
+#logo a{
+    background:url();
+    margin:0;
+    padding:0;
+    height:0;
+}
+#container{
+  margin: 0 auto;
+  padding: 0;
+  display: 100%;
+}

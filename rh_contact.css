@@ -19,7 +19,7 @@ form{
     color: #666;
 }
 
-input, textarea{border:1px solid #666;}
+input, textarea{border:3px solid #666;}
 
 #logo a{
    display: none;

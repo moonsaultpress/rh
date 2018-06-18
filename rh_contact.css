@@ -21,14 +21,10 @@ form{
 
 input, textarea{
     border:1px solid #666;
-    border-radius: 4px;
 }
 
-input, textarea{
-    border:1px solid #666;
-}
-
-input.btTxt.submit{
+input.btTxt.submit,
+.wufoo input.btTxt{
     border:1px solid #666;
     border-radius: 4px;
     background: #333;

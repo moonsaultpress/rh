@@ -6,6 +6,7 @@
 body{
     background: #FFF;
     font-family: "Mplus 1p", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Noto Sans Japanese", sans-serif;
+    font-size: 21px;
     font-weight: 400;
 }
 form{

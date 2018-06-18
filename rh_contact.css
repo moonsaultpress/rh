@@ -25,8 +25,10 @@ input, textarea{
     border:1px solid #666;
 }
 
+input.btTxt,
 input.btTxt.submit,
-.wufoo input.btTxt{
+.wufoo input.btTxt,
+.wufoo input.btTxt.submit{
     border:1px solid #666;
     border-radius: 4px;
     background-color: #333;

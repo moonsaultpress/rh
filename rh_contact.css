@@ -35,7 +35,8 @@ input.btTxt.submit,
     color: #FFF;
 }
 
-#logo a{
+#logo a,
+a.powertiny b, a.powertin em{
    display: none;
 }
 #container{

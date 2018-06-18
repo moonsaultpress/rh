@@ -24,6 +24,17 @@ input, textarea{
     border-radius: 4px;
 }
 
+input, textarea{
+    border:1px solid #666;
+}
+
+input#saveForm{
+    border:1px solid #666;
+    border-radius: 4px;
+    background: #333;
+    color: #FFF;
+}
+
 #logo a{
    display: none;
 }

@@ -25,7 +25,7 @@ input, textarea{
     border:1px solid #666;
 }
 
-input.form_subject{
+.form_subject select{
   font-weight: normal;
 }
 

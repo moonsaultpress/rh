@@ -25,6 +25,10 @@ input, textarea{
     border:1px solid #666;
 }
 
+input.form_subject{
+  font-weight: normal;
+}
+
 input.btTxt,
 input.btTxt.submit,
 .wufoo input.btTxt,

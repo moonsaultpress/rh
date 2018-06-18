@@ -41,3 +41,7 @@ input.btTxt.submit,
   padding: 0;
   display: 100%;
 }
+footer{
+  display: none;
+  !important;
+}

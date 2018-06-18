@@ -9,7 +9,7 @@ body{
     font-weight: 400;
 }
 form{
-    font-family: "Mplus 1p", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Noto Sans Japanese", sans-serif;
+    font-family: inherit;
     font-weight: 400;
     margin : 0 auto;
     padding: 0;

@@ -39,6 +39,10 @@ input.btTxt.submit,
     color: #FFF;
 }
 
+#title4{
+    font-weight: normal;
+}
+
 #logo a,
 a.powertiny b, a.powertin em{
    display: none;

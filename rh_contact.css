@@ -23,7 +23,7 @@ form{
 
 input, textarea,
 input.text, input.search, textarea.textarea,
-.field.textarea.medium,
+#field4.field.textarea.medium,
 input[type="text"]{
     border-top :1px solid #666;
     border-bottom :1px solid #666;
@@ -39,15 +39,12 @@ input[type="text"]{
 input.btTxt,
 input.btTxt.submit,
 .wufoo input.btTxt,
-.wufoo input.btTxt.submit{
+.wufoo input.btTxt.submit,
+input[type="submit"]{
     border:1px solid #666;
     border-radius: 4px;
     background-color: #333;
     color: #FFF;
-}
-
-#title4{
-    font-weight: normal;
 }
 
 #logo a,

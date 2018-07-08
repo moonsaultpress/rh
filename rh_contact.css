@@ -22,8 +22,9 @@ form{
 }
 
 input, textarea,
-#Field11{
+input.text, input.search, textarea.textarea {
     border:1px solid #666;
+    background: #fff url();
 }
 
 .form_subject select{

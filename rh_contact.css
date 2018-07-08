@@ -23,6 +23,7 @@ form{
 
 input, textarea,
 input.text, input.search, textarea.textarea,
+.field.textarea.medium,
 input[type="text"]{
     border-top :1px solid #666;
     border-bottom :1px solid #666;

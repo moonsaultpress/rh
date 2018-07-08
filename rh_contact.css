@@ -23,7 +23,10 @@ form{
 
 input, textarea,
 input.text, input.search, textarea.textarea,
-#field4.field.textarea.medium,
+input#field1,
+input#field3,
+input#field11,
+textarea#field4,
 input[type="text"]{
     border-top :1px solid #666;
     border-bottom :1px solid #666;
